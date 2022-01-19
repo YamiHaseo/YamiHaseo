@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YamiHaseo
 - 👀 I’m interested in Manga/Animes, Video games and Of course programming
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning mainly Java and going to start Python
 - 💞️ I’m looking to collaborate on Android or iOS
 - 📫 How to reach me : Add me on Discord YummyYami#7777
 
